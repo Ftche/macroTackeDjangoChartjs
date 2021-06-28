@@ -1,0 +1,2 @@
+# learnCVgenerator
+MacroTracker - Django - ChartJs
